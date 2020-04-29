@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Welcome to FrontEnd Lamps by TANHONGIT
 
-You can use the [editor on GitHub](https://github.com/TanHongIT/front-end-lamps/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Introduction page premium lamps wrote in HTML CSS JS.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Support the project
+Support this project :stuck_out_tongue_winking_eye: :pray:
+<p align="center">
+    <a href="https://www.paypal.me/tanhongit" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg" data-origin="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="PayPal buymeacoffee TanHongIT"></a>
+</p>
 
-### Markdown
+# 1. Technology
+- HTML
+- CSS
+- JS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 2. Demo
 
-```markdown
-Syntax highlighted code block
+Front-End: [https://tanhongit.github.io/front-end-lamps/](https://tanhongit.github.io/front-end-lamps/)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TanHongIT/front-end-lamps/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# 3. Demo Images
+![Image](https://imgur.com/QEslofU.png)
