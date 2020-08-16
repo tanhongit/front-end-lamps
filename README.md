@@ -19,3 +19,7 @@ Front-End: [https://tanhongit.github.io/front-end-lamps/](https://tanhongit.gith
 
 # 3. Demo Images
 ![Image](https://imgur.com/QEslofU.png)
+
+<p align="center">
+     <img src="https://img.shields.io/packagist/l/doctrine/orm.svg" data-origin="https://img.shields.io/packagist/l/doctrine/orm.svg" alt="license">
+</p>
